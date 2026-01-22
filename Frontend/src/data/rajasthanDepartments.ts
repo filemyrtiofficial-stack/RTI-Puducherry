@@ -14,7 +14,7 @@ export type DepartmentSection = JammuAndKashmirDepartmentSection;
 
 export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
   {
-    category: 'Health & Family Welfare',
+    category: 'RTI Puducherry Health & Family Welfare',
     items: [
       'RTI Puducherry Health & Family Welfare Department',
       'RTI Puducherry Directorate of Health & Family Welfare Services',
@@ -23,7 +23,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry AYUSH Directorate',
     ]},
   {
-    category: 'Education & Skill Development',
+    category: 'RTI Puducherry Education & Skill Development',
     items: [
       'RTI Puducherry School Education Department',
       'RTI Puducherry Directorate of School Education',
@@ -32,7 +32,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Directorate of Collegiate Education',
     ]},
   {
-    category: 'Revenue & District Administration',
+    category: 'RTI Puducherry Revenue & District Administration',
     items: [
       'RTI Puducherry Revenue Department',
       'RTI Puducherry District Collectorate, Puducherry',
@@ -41,7 +41,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Registration Department',
     ]},
   {
-    category: 'Public Works & Infrastructure',
+    category: 'RTI Puducherry Public Works & Infrastructure',
     items: [
       'RTI Puducherry Public Works Department (PWD)',
       'RTI Puducherry Electricity Department',
@@ -49,7 +49,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Roads & Bridges Division',
     ]},
   {
-    category: 'Home, Police & Law',
+    category: 'RTI Puducherry Home, Police & Law',
     items: [
       'RTI Puducherry Home Department',
       'RTI Puducherry Police Department, Puducherry',
@@ -58,7 +58,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Prosecution Department',
     ]},
   {
-    category: 'Local Administration & Municipalities',
+    category: 'RTI Puducherry Local Administration & Municipalities',
     items: [
       'RTI Puducherry Local Administration Department',
       'RTI Puducherry Puducherry Municipality',
@@ -67,7 +67,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Town & Country Planning Department',
     ]},
   {
-    category: 'Agriculture & Rural Economy',
+    category: 'RTI Puducherry Agriculture & Rural Economy',
     items: [
       'RTI Puducherry Agriculture Department',
       'RTI Puducherry Horticulture Department',
@@ -76,7 +76,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Agricultural Marketing Board',
     ]},
   {
-    category: 'Industries, Labour & Employment',
+    category: 'RTI Puducherry Industries, Labour & Employment',
     items: [
       'RTI Puducherry Industries & Commerce Department',
       'RTI Puducherry Labour Department',
@@ -84,7 +84,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Factories & Boilers Inspectorate',
     ]},
   {
-    category: 'Social Welfare & Community Services',
+    category: 'RTI Puducherry Social Welfare & Community Services',
     items: [
       'RTI Puducherry Social Welfare Department',
       'RTI Puducherry Directorate of Women & Child Development',
@@ -93,7 +93,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Department for the Welfare of Differently Abled Persons',
     ]},
   {
-    category: 'Transport & Communication',
+    category: 'RTI Puducherry Transport & Communication',
     items: [
       'RTI Puducherry Transport Department',
       'RTI Puducherry Regional Transport Office (RTO)',
@@ -101,7 +101,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Ports Department',
     ]},
   {
-    category: 'Finance & Taxation',
+    category: 'RTI Puducherry Finance & Taxation',
     items: [
       'RTI Puducherry Finance Department',
       'RTI Puducherry Commercial Taxes Department (GST)',
@@ -109,14 +109,14 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry Treasury & Accounts Department',
     ]},
   {
-    category: 'Environment & Climate',
+    category: 'RTI Puducherry Environment & Climate',
     items: [
       'RTI Puducherry Forest Department',
       'RTI Puducherry Department of Environment & Climate Change',
       'RTI Puducherry Puducherry Pollution Control Committee (PPCC)',
     ]},
   {
-    category: 'Information Technology & Governance',
+    category: 'RTI Puducherry Information Technology & Governance',
     items: [
       'RTI Puducherry Planning & Research Department',
       'RTI Puducherry Information Technology Department',
@@ -124,7 +124,7 @@ export const jammuAndKashmirDepartments: JammuAndKashmirDepartmentSection[] = [
       'RTI Puducherry National Informatics Centre (NIC), Puducherry',
     ]},
   {
-    category: 'RTI Authorities & Information Commission',
+    category: 'RTI Puducherry RTI Authorities & Information Commission',
     items: [
       'RTI Puducherry State Information Commission, Puducherry',
       'RTI Puducherry RTI Cell – Chief Secretariat',
